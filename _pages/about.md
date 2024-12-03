@@ -50,7 +50,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.09 - 2025.05 (now)*, Master of Science(MS), School of Computer Science and Technology, University of Science and Technology of China. 
 - *2015.09 - 2019.06*, Bachelor of Science(BS), School of Computer Science, University of Gujrat, Pakistan. 
 
-%# 💬 Invited Talks
+{%# 💬 Invited Talks%}
 %- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 %- *2015.09 - 2019-08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
